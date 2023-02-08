@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kuscko
 - 👀 I’m interested in further improving my portfolio, solving software problems using unique solutions.
-- 🌱 I’m currently learning:
-  - Android Development and Python
 - 💞️ I’m looking to collaborate on projects in C#, Python, ASP.net, HTML/JavaScript/CSS.
 - 📫 I can be reached either by my:
   - LinkedIn: https://www.linkedin.com/in/kuscko/
