@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @Kuscko or known by my peers as Patrick Kelly
 - 💞️ I’m looking to collaborate on projects in C#, Python, ASP.net, HTML/JavaScript/CSS.
-- 📫 I can be reached either by my:
-  - LinkedIn: https://www.linkedin.com/in/kuscko/
-  - or Email: contact@kuscko.com
-  - or View my Resume @ https://resume.kuscko.com
